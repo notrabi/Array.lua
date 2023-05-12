@@ -4,7 +4,9 @@ Funny roblox modulescript to go over 1.7e308
 NOTE: Is very slow but accurate to the decimal point.
 
 Number: Anything within 0 to 1.7e308
+
 Scientific: NumbereNumber (Numberx10^Number)
+
 Array: {num,x10x}
 
 # Functions
