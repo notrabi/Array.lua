@@ -1,5 +1,5 @@
 # Array.lua
-Funny roblox bignum modulescript to go over 1.7e308
+Funny roblox modulescript to go over 1.7e308
 
 Number: Anything within 0 to 1.7e308
 Scientific: NumbereNumber (Numberx10^Number)
